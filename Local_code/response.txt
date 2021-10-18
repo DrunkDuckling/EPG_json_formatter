@@ -1,0 +1,7 @@
+monday: Nyhederne 6:00:00 - 10:00:00,  / Dybvaaaaad 10:00:00 - 10:35:00 
+tuesday: Nothing aired today 
+wednesday: Nyhederne 6:00:00 - 12:00:00,  / Fodbold 14:00:00 - 15:30:00,  / Nyhederne 21:00:00 - 21:30:00 
+thursday: ESL 12:00:00 - 13:00:00,  / ESLPro 23:00:00 - 1:00:00 
+friday: Nothing aired today 
+saturday: Comedy 14:30:00 - 16:30:00,  / Nybyggerne 22:40:00 - 1:30:00 
+sunday: Dybvvvvvad 11:30:00 - 12:00:00 

@@ -13,7 +13,8 @@ data = json.load(d)
 d.close()
 
 # URL, and headers for the API End point
-URL = Constants.API_ENDPOINT
+#URL = Constants.API_ENDPOINT
+URL = Constants.LOCAL_API_ENDPOINT
 headers = { 'content-type' : 'application/json'}
 
 # Request AWS with a post using the URL, headers and the EPG data
