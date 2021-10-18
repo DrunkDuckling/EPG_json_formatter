@@ -1,0 +1,3 @@
+# Ignore the constants file that contains the API Key and API Endpoint
+# This information is shared with relevant people for the code
+Local_code/Constants.py
